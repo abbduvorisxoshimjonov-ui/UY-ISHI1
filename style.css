@@ -1,0 +1,26 @@
+.bir{
+    color: blue;
+    background-color: rgb(73, 203, 243);
+    height: 80px;
+    border-bottom:  solid ;
+    border-radius: 10px;
+}
+.ikki{
+    height: 190px;
+    border-radius: 20px;
+}
+.uch{
+    height: 190px;
+    border-radius: 20px;
+}
+.tor{
+    height: 190px;
+    border-radius: 20px;
+}
+.besh{
+    border-top: solid;
+    color: blue;
+    background-color: rgb(73, 203, 243);
+    height: 50px;
+    border-radius: 10px;
+}
